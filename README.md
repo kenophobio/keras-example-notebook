@@ -1,2 +1,3 @@
-# keras-example-notebook
-A standard CNN for the MNIST dataset coded up in keras in a jupyter notebook.
+# Example Jupyter Notebook
+
+This repository contains a Jupyter notebook that builds a standard CNN for the MNIST dataset using `keras`. The code is more or less directly copied from the `keras` [examples repository](https://github.com/fchollet/keras/blob/master/examples/mnist_cnn.py). This notebook is being used in the blog post [A Lazy Girl's Guide to Setting Up Jupyter on EC2 for Deep Learning](https://kenophobio.github.io/2017-01-10/deep-learning-jupyter-ec2/).
